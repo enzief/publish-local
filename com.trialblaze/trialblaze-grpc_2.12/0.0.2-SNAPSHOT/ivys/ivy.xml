@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-  <info organisation="com.trialblaze" module="trialblaze-grpc_2.12" revision="0.0.2-SNAPSHOT" status="release" publication="20180817193728">
+  <info organisation="com.trialblaze" module="trialblaze-grpc_2.12" revision="0.0.2-SNAPSHOT" status="release" publication="20180817211415">
     <description/>
   </info>
   <configurations>

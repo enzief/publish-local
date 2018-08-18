@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-  <info organisation="com.trialblaze" module="trialblaze-grpc_2.12" revision="0.0.2" status="release" publication="20180814052818">
+  <info organisation="com.trialblaze" module="trialblaze-grpc_2.12" revision="0.0.2" status="release" publication="20180818084418">
     <description/>
   </info>
   <configurations>
@@ -47,6 +47,7 @@
     <dependency org="com.thesamet.scalapb" name="scalapb-runtime_2.12" rev="0.7.1" conf="compile->default(compile)"> </dependency>
     <dependency org="org.scalameta" name="semanticdb-scalac_2.12.6" rev="4.0.0-M7" conf="plugin->default(compile)"> </dependency>
     <dependency org="org.spire-math" name="kind-projector_2.12" rev="0.9.7" conf="plugin->default(compile)"> </dependency>
+    <dependency org="com.olegpy" name="better-monadic-for_2.12" rev="0.2.4" conf="plugin->default(compile)"> </dependency>
     <dependency org="io.grpc" name="grpc-core" rev="1.10.0" conf="compile->default(compile)"> </dependency>
     <dependency org="io.grpc" name="grpc-stub" rev="1.10.0" conf="compile->default(compile)"> </dependency>
     <dependency org="org.lyranthe.fs2-grpc" name="java-runtime_2.12" rev="0.3.0" conf="compile->default(compile)"> </dependency>

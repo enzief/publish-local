@@ -5,7 +5,7 @@
     <artifactId>trialblaze-grpc_2.12</artifactId>
     <packaging>jar</packaging>
     <description>trialblaze-grpc</description>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.1.2</version>
     <name>trialblaze-grpc</name>
     <inceptionYear>2018</inceptionYear>
     <organization>
